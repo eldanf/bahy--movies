@@ -1,0 +1,18 @@
+body{
+    font-family: 'Cairo'
+}
+header{
+    box-shadow: 0 3px 7px rgb(37, 36, 36);
+    
+}
+.card{
+    box-shadow: 0 3px 7px gray;
+}
+.btn{
+    box-shadow: 0 3px 7px rgb(54, 53, 53);
+} 
+img{
+    box-shadow: 0 3px 7px rgb(54, 53, 53);
+} 
+
+
