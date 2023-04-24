@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/bahy--movies/static/css/main.fbc21e5b.css",
+    "main.js": "/bahy--movies/static/js/main.9f4c9819.js",
+    "static/media/ana.png": "/bahy--movies/static/media/ana.43cd499fb4845abe31fd.png",
+    "index.html": "/bahy--movies/index.html",
+    "main.fbc21e5b.css.map": "/bahy--movies/static/css/main.fbc21e5b.css.map",
+    "main.9f4c9819.js.map": "/bahy--movies/static/js/main.9f4c9819.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbc21e5b.css",
+    "static/js/main.9f4c9819.js"
+  ]
+}
